@@ -1,12 +1,12 @@
-import { Skills } from "@/utils/constants";
+import { SkillList } from "@/utils/constants";
 import Link from "next/link";
-import { GoArrowRight, GoArrowUpRight } from "react-icons/go";
+import { GoArrowRight } from "react-icons/go";
 
-export default function SkillSection() {
+export default function Skills() {
   return (
     <>
       <ul className="flex flex-wrap gap-2">
-        {Skills.map((skill) => (
+        {SkillList.map((skill) => (
           <li key={skill} className=" mt-2">
             <p className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-lg font-medium leading-5 text-teal-300 uppercase">
               {skill}
@@ -16,7 +16,7 @@ export default function SkillSection() {
       </ul>
       <div className="mt-12">
         <Link
-          href="/"
+          href="/skills"
           className="group inline-flex items-center font-semibold leading-tight text-slate-200"
           aria-label="View all skills"
         >

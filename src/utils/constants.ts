@@ -1,10 +1,8 @@
-import {
-  About,
-  Education,
-  Experience,
-  Projects,
-  SkillSection,
-} from "@/components";
+import About from "@/components/About";
+import Education from "@/components/Education";
+import Experience from "@/components/Experience";
+import Projects from "@/components/Projects";
+import Skills from "@/components/Skills";
 import { IconType } from "react-icons";
 import {
   FaArtstation,
@@ -22,7 +20,7 @@ const Pages: readonly {
   { link: "about", label: "About me", children: About },
   { link: "projects", label: "Projects", children: Projects },
   { link: "experience", label: "Work experience", children: Experience },
-  { link: "skills", label: "Skills", children: SkillSection },
+  { link: "skills", label: "Skills", children: Skills },
   { link: "education", label: "Education", children: Education },
 ];
 
@@ -48,14 +46,14 @@ const SocialLinks: readonly {
     icon: FaLinkedinIn,
   },
   {
-    link: "https://www.artstation.com/docren155",
+    link: "https://docren155.artstation.com/",
     title: "Artstation",
     icon: FaArtstation,
   },
 ];
 
 // skills
-const Skills: readonly string[] = [
+const SkillList: readonly string[] = [
   "react",
   "react native",
   "nextjs",
@@ -63,4 +61,4 @@ const Skills: readonly string[] = [
   "tailwindcss",
 ];
 
-export { Pages, SocialLinks, Skills };
+export { Pages, SocialLinks, SkillList };
