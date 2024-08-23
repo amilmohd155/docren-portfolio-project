@@ -7,6 +7,8 @@ export default function Footer() {
       <p>
         Developed by Amil using{" "}
         <Link
+          target="_blank"
+          rel="noreferrer noopener"
           href="https://code.visualstudio.com/"
           className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
         >
@@ -14,20 +16,35 @@ export default function Footer() {
         </Link>{" "}
         . Built with{" "}
         <Link
+          target="_blank"
+          rel="noreferrer noopener"
           href="https://nextjs.org/"
           className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
         >
           Next.js
         </Link>{" "}
-        and{" "}
+        ,{" "}
         <Link
+          target="_blank"
+          rel="noreferrer noopener"
           href="https://tailwindcss.com/"
           className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
         >
           Tailwind CSS
+        </Link>{" "}
+        and{" "}
+        <Link
+          target="_blank"
+          rel="noreferrer noopener"
+          href="https://r3f.docs.pmnd.rs/getting-started/introduction"
+          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+        >
+          React-three-fiber
         </Link>
         . Inspire by portfolio page by{" "}
         <Link
+          target="_blank"
+          rel="noreferrer noopener"
           className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
           href="https://brittanychiang.com/"
         >

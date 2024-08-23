@@ -14,6 +14,7 @@ export default function ExperienceSection() {
               title,
               location,
               description,
+              link,
             }) => (
               <li className="mb-12" key={workplace}>
                 <div className="group relative grid pb-1 transition-all sm:grid-cols-8 sm:gap-8 md:gap-4 lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
@@ -26,7 +27,12 @@ export default function ExperienceSection() {
                   <div className="z-10 sm:col-span-6">
                     <h3 className="font-medium leading-snug">
                       <div>
-                        <Link href="" className="text-slate-200">
+                        <Link
+                          href={link}
+                          className="text-slate-200"
+                          target="_blank"
+                          rel="noreferrer noopener"
+                        >
                           <span className="absolute -inset-x-4 -inset-y-2.5 hidden rounded md:-inset-x-6 md:-inset-y-4 lg:block" />
                           <span>
                             {title}

@@ -31,8 +31,8 @@ export default function Page() {
 
       {/* Top Skills */}
       <div className="flex justify-around flex-wrap py-10 lg:gap-5 gap-2">
-        {TopSkills.map(({ label, icon }) => (
-          <SkillToolTip key={label} label={label}>
+        {TopSkills.map(({ label, icon, ...rest }) => (
+          <SkillToolTip key={label} label={label} {...rest}>
             <div className="flex flex-col items-center cursor-pointer">
               <Image
                 priority

@@ -4,29 +4,35 @@ import { ReactNode } from "react";
 export default function SkillToolTip({
   label,
   description,
+  experience = "1",
   children,
 }: {
   label: string;
   description?: string;
+  experience?: string;
   children: ReactNode;
 }) {
   return (
     <Tooltip
       shadow="sm"
-      showArrow
       shouldFlip
+      showArrow
       placement="right"
       classNames={{
-        base: ["before:bg-neutral-400"],
+        base: [
+          // arrow color
+          "before:bg-slate-800",
+        ],
+        content: ["py-2 px-4 shadow-xl rounded", "text-slate-300 bg-slate-800"],
       }}
       content={
-        <div className="rounded-lg py-2 px-4 shadow-xl text-slate-300 bg-slate-800">
-          <h3>{label}</h3>
-          <p>
-            {description
-              ? description
-              : "lorem Inspire active aria wide endDate react tab university"}
-          </p>
+        <div>
+          <div className="flex flex-row gap-2 items-center">
+            <h2 className="text-2xl">{label}</h2>
+            &#9679;
+            <p>{`${experience} year`}</p>
+          </div>
+          <p>{description ? description : ""}</p>
         </div>
       }
     >
@@ -34,3 +40,5 @@ export default function SkillToolTip({
     </Tooltip>
   );
 }
+
+//  className="rounded-lg py-2 px-4 shadow-xl text-slate-300 bg-slate-800"

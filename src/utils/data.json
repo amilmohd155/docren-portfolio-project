@@ -21,71 +21,105 @@
     "top": [
       {
         "label": "HTML",
-        "icon": "/images/skills/html.svg"
+        "icon": "/images/skills/html.svg",
+        "experience": "5",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "CSS",
-        "icon": "/images/skills/css.svg"
+        "icon": "/images/skills/css.svg",
+        "experience": "5",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "JavaScript",
-        "icon": "/images/skills/javascript.svg"
+        "icon": "/images/skills/javascript.svg",
+        "experience": "5",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "TypeScript",
-        "icon": "/images/skills/typescript.svg"
+        "icon": "/images/skills/typescript.svg",
+        "experience": "2",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "React",
-        "icon": "/images/skills/reactjs.svg"
-      },
-      {
-        "label": "React Native",
-        "icon": "/images/skills/reactjs.svg"
+        "icon": "/images/skills/reactjs.svg",
+        "experience": "3",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Next.js",
-        "icon": "/images/skills/nextjs.svg"
-      },
-      {
-        "label": "Nest.js",
-        "icon": "/images/skills/nestjs.svg"
+        "icon": "/images/skills/nextjs.svg",
+        "experience": "2",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "TailwindCSS",
-        "icon": "/images/skills/tailwindcss.svg"
+        "icon": "/images/skills/tailwindcss.svg",
+        "experience": "3",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
-        "label": "Docker",
-        "icon": "/images/skills/docker.svg"
+        "label": "React Native",
+        "icon": "/images/skills/reactjs.svg",
+        "experience": "3",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Node.js",
-        "icon": "/images/skills/node.svg"
+        "icon": "/images/skills/node.svg",
+        "experience": "4",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+      },
+      {
+        "label": "Nest.js",
+        "icon": "/images/skills/nestjs.svg",
+        "experience": "2",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "GrahpQL",
-        "icon": "/images/skills/graphql.svg"
+        "icon": "/images/skills/graphql.svg",
+        "experience": "1",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+      },
+      {
+        "label": "Docker",
+        "icon": "/images/skills/docker.svg",
+        "experience": "1",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Figma",
-        "icon": "/images/skills/figma.svg"
+        "icon": "/images/skills/figma.svg",
+        "experience": "2",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Android",
-        "icon": "/images/skills/android.svg"
+        "icon": "/images/skills/android.svg",
+        "experience": "3",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Git",
-        "icon": "/images/skills/git.svg"
+        "icon": "/images/skills/git.svg",
+        "experience": "1",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "MongoDB",
-        "icon": "/images/skills/mongodb.svg"
+        "icon": "/images/skills/mongodb.svg",
+        "experience": "2",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
         "label": "Blender",
-        "icon": "/images/skills/Blender.svg"
+        "icon": "/images/skills/Blender.svg",
+        "experience": "5",
+        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       }
     ],
     "technical": [
@@ -172,6 +206,7 @@
       "title": "Full Stack Developer",
       "workplace": "Freelancing",
       "location": "London, UK",
+      "link": "",
       "description": "Built and maintained responsive web apps using <strong>React</strong>, optimizing performance and enhancing user experience. Implemented state management (<strong>Redux</strong>, <strong>Context API</strong>) and modern React features to improve code scalability and stability."
     },
     {
@@ -180,6 +215,7 @@
       "title": "Software Engineer Intern",
       "workplace": "eClerX Pvt Ltd",
       "location": "Chandigarh, India",
+      "link": "https://eclerx.com/",
       "description": "Developed and maintained <strong>Java applications</strong>, enhancing functionality and performance. Assisted in translating business requirements into technical specifications and implemented solutions under senior developer guidance. Collaborated with cross-functional teams to troubleshoot and resolve software issues, ensuring code quality and reliability."
     },
     {
@@ -188,6 +224,7 @@
       "title": "3D Artist Intern",
       "workplace": "Juego Studios Pvt Ltd",
       "location": "Bangalore, India",
+      "link": "https://www.juegostudio.com/",
       "description": ""
     }
   ],
@@ -215,7 +252,7 @@
     },
     {
       "title": "VolunteerX Server",
-      "description": "This project is the server-side backbone of a localized social network for volunteers, connecting innovative minds to solve real-world problems and drive change. Developed with <strong>Nest.js</strong>, <strong>Apollo GraphQL</strong>, <strong>Microservices</strong>, <strong>MongoDB</strong>, and <strong>Neo4j</strong>.",
+      "description": "This project is the server-side backbone of a localized social network for volunteers, connecting innovative minds to solve real-world problems and drive change. Developed with <strong>Nest.js</strong>, <strong>Apollo GraphQL</strong>, <strong>MongoDB</strong>, and <strong>Neo4j</strong>. This server uses a microservice architecture built on the robust features of Nest.js and <strong>RabbitMQ</strong> and <strong>Apollo GraphQL Federation</strong>",
       "image": "/images/projects/volunteerx-server.jpeg",
       "imageAlt": "VolunteerX Server Github image",
       "url": "https://github.com/volunteer-x/server"
