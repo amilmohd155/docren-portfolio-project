@@ -8,7 +8,7 @@ export default function SkillSection() {
       <ul className="flex flex-wrap gap-2">
         {TopSkills.map(({ label }) => (
           <li key={label} className=" mt-2" aria-label={label}>
-            <p className="flex items-center rounded-full bg-teal-400/10 px-3 py-1 text-lg font-medium leading-5 text-teal-300">
+            <p className="flex items-center rounded-full bg-violet-400/10 px-3 py-2 text-lg font-medium leading-5 text-violet-300">
               {label}
             </p>
           </li>
