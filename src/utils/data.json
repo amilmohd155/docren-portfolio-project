@@ -99,7 +99,7 @@
       "Nest.js",
       "React Native",
       "Expo",
-      "GrahpQL",
+      "GraphQL",
       "REST API",
       "NoSQL",
       "MongoDB",
@@ -114,7 +114,10 @@
       "Microservice",
       "Jest",
       "Storybook",
-      "AWS"
+      "AWS",
+      "Neo4j",
+      "WSL",
+      "System Design"
     ],
     "creative": [
       "UI design",
@@ -191,16 +194,16 @@
   "projects": [
     {
       "title": "Portfolio Webpage",
-      "description": "A <strong>React Native (Expo)</strong> project for watering plants. The app allows users to schedule watering reminders and uses the <strong>Plant.id API</strong> to identify plants based on the image provided.",
+      "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>",
       "image": "/images/projects/garden-app.png",
-      "imageAlt": "Garden Reminder Github image",
-      "url": "https://github.com/amilmohd155/RNGardenApp"
+      "imageAlt": "Portfolio Webpage image",
+      "url": "https://github.com/amilmohd155/docren-portfolio-project"
     },
     {
       "title": "Garden Reminder App",
       "description": "A <strong>React Native (Expo)</strong> project for watering plants. The app allows users to schedule watering reminders and uses the <strong>Plant.id API</strong> to identify plants based on the image provided.",
       "image": "/images/projects/garden-app.png",
-      "imageAlt": "Garden Reminder Github image",
+      "imageAlt": "Garden Reminder image",
       "url": "https://github.com/amilmohd155/RNGardenApp"
     },
     {
