@@ -1,26 +1,12 @@
+import { Experience } from "@/utils/data";
 import Link from "next/link";
 
-const experience = [
-  {
-    startDate: "2023",
-    endDate: "Present",
-    title: "Developer",
-    workplace: "Freelancing",
-    location: "London, UK",
-    description: `Built and maintained responsive web apps using React,
-                  optimizing performance and enhancing user experience.
-                  Implemented state management (<strong>Redux</strong>, 
-                  <strong>Context API</strong>) and modern React features to
-                  improve code scalability and stability.`,
-  },
-];
-
-export default function Experience() {
+export default function ExperienceSection() {
   return (
     <>
       <div>
         <ol className="group/list">
-          {experience.map(
+          {Experience.map(
             ({
               workplace,
               startDate,

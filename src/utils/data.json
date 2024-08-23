@@ -1,0 +1,222 @@
+{
+  "socialLinks": [
+    {
+      "label": "Github",
+      "link": "https://github.com/amilmohd155"
+    },
+    {
+      "label": "StackOverflow",
+      "link": "https://stackoverflow.com/users/23015660/amil-muhammed-hamza"
+    },
+    {
+      "label": "LinkedIn",
+      "link": "https://www.linkedin.com/in/amil-muhammed/"
+    },
+    {
+      "label": "Artstation",
+      "link": "https://docren155.artstation.com/"
+    }
+  ],
+  "skills": {
+    "top": [
+      {
+        "label": "HTML",
+        "icon": "/images/skills/html.svg"
+      },
+      {
+        "label": "CSS",
+        "icon": "/images/skills/css.svg"
+      },
+      {
+        "label": "JavaScript",
+        "icon": "/images/skills/javascript.svg"
+      },
+      {
+        "label": "TypeScript",
+        "icon": "/images/skills/typescript.svg"
+      },
+      {
+        "label": "React",
+        "icon": "/images/skills/reactjs.svg"
+      },
+      {
+        "label": "React Native",
+        "icon": "/images/skills/reactjs.svg"
+      },
+      {
+        "label": "Next.js",
+        "icon": "/images/skills/nextjs.svg"
+      },
+      {
+        "label": "Nest.js",
+        "icon": "/images/skills/nestjs.svg"
+      },
+      {
+        "label": "TailwindCSS",
+        "icon": "/images/skills/tailwindcss.svg"
+      },
+      {
+        "label": "Docker",
+        "icon": "/images/skills/docker.svg"
+      },
+      {
+        "label": "Node.js",
+        "icon": "/images/skills/node.svg"
+      },
+      {
+        "label": "GrahpQL",
+        "icon": "/images/skills/graphql.svg"
+      },
+      {
+        "label": "Figma",
+        "icon": "/images/skills/figma.svg"
+      },
+      {
+        "label": "Android",
+        "icon": "/images/skills/android.svg"
+      },
+      {
+        "label": "Git",
+        "icon": "/images/skills/git.svg"
+      },
+      {
+        "label": "MongoDB",
+        "icon": "/images/skills/mongodb.svg"
+      },
+      {
+        "label": "Blender",
+        "icon": "/images/skills/Blender.svg"
+      }
+    ],
+    "technical": [
+      "HTML",
+      "CSS",
+      "TailwindCSS",
+      "JavaScript",
+      "TypeScript",
+      "Node.js",
+      "Next.js",
+      "Nest.js",
+      "React Native",
+      "Expo",
+      "GrahpQL",
+      "REST API",
+      "NoSQL",
+      "MongoDB",
+      "Android",
+      "Redux",
+      "Zustand",
+      "Docker",
+      "Git",
+      "RabbitMQ",
+      "Java",
+      "Kotlin",
+      "Microservice",
+      "Jest",
+      "Storybook",
+      "AWS"
+    ],
+    "creative": [
+      "UI design",
+      "3D Modelling",
+      "Texturing",
+      "Digital Sculpting",
+      "Retopology",
+      "UV Mapping"
+    ],
+    "softwareKnowledge": [
+      "Visual Studio Code",
+      "Android Studio",
+      "Unreal Engine",
+      "Blender",
+      "Substance 3D Suite",
+      "Adobe Creative Suite",
+      "ZBrush",
+      "Davinci Resolve"
+    ],
+    "other": ["Microsoft Office Suite"]
+  },
+  "bio": {
+    "name": "Amil Muhammed Hamza",
+    "title": "Full Stack Developer",
+    "shortDecription": "Crafting dynamic, full-stack solutions with a touch of 3D creativity.",
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus magnam dolorem molestiae, eligendi fugit commodi sed ea nesciunt enim, tenetur aspernatur a laboriosam voluptate. Mollitia illo aperiam inventore dolorem consectetur."
+  },
+  "education": [
+    {
+      "course": "M.Sc in Software Engineering",
+      "university": "Kingston University",
+      "location": "London",
+      "grade": "Merit ( A- )",
+      "endDate": "Jan 2024",
+      "startDate": "Jan 2023",
+      "details": "In my Master’s in Software Engineering, I specialized in Agile Development, Software Architecture, and UX Design. I gained practical skills in creating scalable systems and ensuring software quality through rigorous testing. This education equipped me to design, develop, and maintain high-quality software in dynamic, collaborative environments."
+    },
+    {
+      "course": "B.Tech in Computer Science",
+      "university": "Lovely Professional University",
+      "location": "Punjab",
+      "grade": "7.21",
+      "endDate": "Aug 2021",
+      "startDate": "Sept 2017",
+      "details": "During my Bachelor’s in Computer Science, I focused on Data Structures, Database Management, and Algorithms, gaining a solid foundation in efficient software development. I also studied Java, Android, C++, and Artificial Intelligence, enhancing my programming skills. The program included Business Management, providing insights into the intersection of technology and business."
+    }
+  ],
+  "experience": [
+    {
+      "startDate": "2023",
+      "endDate": "Present",
+      "title": "Full Stack Developer",
+      "workplace": "Freelancing",
+      "location": "London, UK",
+      "description": "Built and maintained responsive web apps using <strong>React</strong>, optimizing performance and enhancing user experience. Implemented state management (<strong>Redux</strong>, <strong>Context API</strong>) and modern React features to improve code scalability and stability."
+    },
+    {
+      "startDate": "Jul 2021",
+      "endDate": "Nov 2021",
+      "title": "Software Engineer Intern",
+      "workplace": "eClerX Pvt Ltd",
+      "location": "Chandigarh, India",
+      "description": "Developed and maintained <strong>Java applications</strong>, enhancing functionality and performance. Assisted in translating business requirements into technical specifications and implemented solutions under senior developer guidance. Collaborated with cross-functional teams to troubleshoot and resolve software issues, ensuring code quality and reliability."
+    },
+    {
+      "startDate": "Nov 2021",
+      "endDate": "Aug 2022",
+      "title": "3D Artist Intern",
+      "workplace": "Juego Studios Pvt Ltd",
+      "location": "Bangalore, India",
+      "description": ""
+    }
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Webpage",
+      "description": "A <strong>React Native (Expo)</strong> project for watering plants. The app allows users to schedule watering reminders and uses the <strong>Plant.id API</strong> to identify plants based on the image provided.",
+      "image": "/images/projects/garden-app.png",
+      "imageAlt": "Garden Reminder Github image",
+      "url": "https://github.com/amilmohd155/RNGardenApp"
+    },
+    {
+      "title": "Garden Reminder App",
+      "description": "A <strong>React Native (Expo)</strong> project for watering plants. The app allows users to schedule watering reminders and uses the <strong>Plant.id API</strong> to identify plants based on the image provided.",
+      "image": "/images/projects/garden-app.png",
+      "imageAlt": "Garden Reminder Github image",
+      "url": "https://github.com/amilmohd155/RNGardenApp"
+    },
+    {
+      "title": "VolunteerX Client",
+      "description": "VolunteerX is a localised social network for volunteers. It is a platform where we sync the innovative minds to resolve real-life problems and bring changes. Built with <strong>React Native</strong>, <strong>MapBox</strong> and <strong>GraphQL</strong>",
+      "image": "/images/projects/volunteerx-client.png",
+      "imageAlt": "VolunteerX Client Github image",
+      "url": "https://github.com/volunteer-x/client"
+    },
+    {
+      "title": "VolunteerX Server",
+      "description": "This project is the server-side backbone of a localized social network for volunteers, connecting innovative minds to solve real-world problems and drive change. Developed with <strong>Nest.js</strong>, <strong>Apollo GraphQL</strong>, <strong>Microservices</strong>, <strong>MongoDB</strong>, and <strong>Neo4j</strong>.",
+      "image": "/images/projects/volunteerx-server.jpeg",
+      "imageAlt": "VolunteerX Server Github image",
+      "url": "https://github.com/volunteer-x/server"
+    }
+  ],
+  "footer": "Developed by Amil using Visual Studio Code. Built with Next.js and Tailwind CSS. Inspire by portfolio page by Brittany Chiang"
+}

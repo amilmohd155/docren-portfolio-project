@@ -1,31 +1,12 @@
+import { Education } from "@/utils/data";
 import { GiUpgrade } from "react-icons/gi";
 
-const education = [
-  {
-    course: "M.Sc in Software Engineering",
-    university: "Kingston University",
-    location: "London",
-    grade: "7.5",
-    endDate: "Jan 2024",
-    startDate: "Jan 2023",
-    details: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus magnam dolorem molestiae, eligendi fugit commodi sed ea nesciunt enim, tenetur aspernatur a laboriosam voluptate. Mollitia illo aperiam inventore dolorem consectetur.`,
-  },
-  {
-    course: "B.Tech in Computer Science",
-    university: "Lovely Professional University",
-    location: "Punjab",
-    grade: "7.14",
-    endDate: "Aug 2021",
-    startDate: "Sept 2017",
-    details: `Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus magnam dolorem molestiae, eligendi fugit commodi sed ea nesciunt enim, tenetur aspernatur a laboriosam voluptate. Mollitia illo aperiam inventore dolorem consectetur.`,
-  },
-];
-export default function Education() {
+export default function EducationSection() {
   return (
     <>
       <div>
         <ol>
-          {education.map(
+          {Education.map(
             ({
               course,
               university,
