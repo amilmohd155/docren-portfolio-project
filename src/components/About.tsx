@@ -14,7 +14,7 @@ export default function About() {
         <Link
           target="_blank"
           rel="noreferrer noopener"
-          href="#"
+          href="https://cufknazmgyuxwsd4.public.blob.vercel-storage.com/Amil's%20Resume%202024.1-Zg8MjPJkcjCOtRhrG1dhWQUa3OSYqq.pdf"
           className="group inline-flex items-center font-semibold leading-tight text-slate-200"
           aria-label="View all projects (opens in a new tab)"
         >
