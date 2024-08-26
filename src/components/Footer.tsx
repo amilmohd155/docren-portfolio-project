@@ -41,7 +41,7 @@ export default function Footer() {
         >
           React-three-fiber
         </Link>
-        . Inspire by{" "}
+        . Inspired by{" "}
         <Link
           target="_blank"
           rel="noreferrer noopener"

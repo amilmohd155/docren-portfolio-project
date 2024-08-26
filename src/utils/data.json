@@ -231,7 +231,7 @@
     {
       "title": "Portfolio Webpage",
       "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>",
-      "image": "/images/projects/garden-app.png",
+      "image": "/images/projects/portfolio.png",
       "imageAlt": "Portfolio Webpage image",
       "url": "https://github.com/amilmohd155/docren-portfolio-project"
     },

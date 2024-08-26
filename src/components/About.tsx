@@ -6,11 +6,11 @@ export default function About() {
   return (
     <div>
       {Bio.about.map((para) => (
-        <p className="leading-relaxed prose-rose" key={para}>
+        <p className="leading-relaxed prose-rose mb-2" key={para}>
           {para}
         </p>
       ))}
-      <div className="mt-5">
+      <div className="mt-3">
         <Link
           target="_blank"
           rel="noreferrer noopener"
