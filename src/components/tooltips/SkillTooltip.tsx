@@ -1,7 +1,7 @@
 import { Tooltip } from "@nextui-org/tooltip";
 import { ReactNode } from "react";
 
-export default function SkillToolTip({
+export default function SkillTooltip({
   label,
   description,
   experience = "1",

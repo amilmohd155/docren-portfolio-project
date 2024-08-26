@@ -1,4 +1,4 @@
-import SkillToolTip from "@/components/Tooltip";
+import SkillToolTip from "@/components/tooltips/SkillTooltip";
 import {
   CreativeSkills,
   OtherSkills,

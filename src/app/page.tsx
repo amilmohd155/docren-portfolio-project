@@ -1,5 +1,6 @@
 import { Header } from "@/components";
 import Footer from "@/components/Footer";
+
 import { Pages } from "@/utils/pages";
 
 export default function Home() {

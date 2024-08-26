@@ -21,7 +21,7 @@ export default function RootLayout({
     <html lang="en" className="scroll-smooth">
       <body
         className={clsx(
-          "bg-slate-900 leading-relaxed text-slate-400 antialiased selection:bg-violet-300 selection:text-violet-900",
+          "bg-slate-900 leading-relaxed text-slate-300 antialiased selection:bg-violet-300 selection:text-violet-900",
           urbanist.className
         )}
       >

@@ -10,7 +10,7 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer noopener"
           href="https://code.visualstudio.com/"
-          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          className="font-medium text-slate-400 hover:text-violet-300 focus-visible:text-violet-300"
         >
           Visual Studio Code
         </Link>{" "}
@@ -19,16 +19,16 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer noopener"
           href="https://nextjs.org/"
-          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          className="font-medium text-slate-400 hover:text-violet-300 focus-visible:text-violet-300"
         >
           Next.js
-        </Link>{" "}
+        </Link>
         ,{" "}
         <Link
           target="_blank"
           rel="noreferrer noopener"
           href="https://tailwindcss.com/"
-          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          className="font-medium text-slate-400 hover:text-violet-300 focus-visible:text-violet-300"
         >
           Tailwind CSS
         </Link>{" "}
@@ -37,19 +37,20 @@ export default function Footer() {
           target="_blank"
           rel="noreferrer noopener"
           href="https://r3f.docs.pmnd.rs/getting-started/introduction"
-          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          className="font-medium text-slate-400 hover:text-violet-300 focus-visible:text-violet-300"
         >
           React-three-fiber
         </Link>
-        . Inspire by portfolio page by{" "}
+        . Inspire by{" "}
         <Link
           target="_blank"
           rel="noreferrer noopener"
-          className="font-medium text-slate-400 hover:text-teal-300 focus-visible:text-teal-300"
+          className="font-medium text-slate-400 hover:text-violet-300 focus-visible:text-violet-300"
           href="https://brittanychiang.com/"
         >
-          Brittany Chiang
+          {`Brittany Chiang's `}
         </Link>
+        portfolio page.
       </p>
     </footer>
   );

@@ -1,6 +1,10 @@
+// "use client";
 import { Pages } from "@/utils/pages";
 import { Bio, SocialLinks } from "@/utils/data";
 import Link from "next/link";
+import useScrolledTillBottom from "@/hooks/useScrolledTillBottom";
+import { FaArtstation } from "react-icons/fa";
+import ArtstationTooltip from "./tooltips/ArtstationTooltip";
 
 export default function Header() {
   return (
@@ -46,6 +50,21 @@ export default function Header() {
             </a>
           </li>
         ))}
+        <ArtstationTooltip>
+          <li className="mr-5 text-xs shrink-0">
+            <a
+              href="https://docren155.artstation.com/"
+              className="block hover:text-slate-200"
+              target="_blank"
+              rel="noreferrer noopener"
+              aria-label={`Artstation (opens in a new tab)`}
+              title="Artstation"
+            >
+              <span className="sr-only">Artstation</span>
+              <FaArtstation className="h-6 w-6" />
+            </a>
+          </li>
+        </ArtstationTooltip>
       </ul>
     </header>
   );
