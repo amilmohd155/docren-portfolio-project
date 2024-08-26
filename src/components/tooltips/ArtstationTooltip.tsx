@@ -7,8 +7,6 @@ import { ReactNode } from "react";
 
 const ArtstationTooltip = ({ children }: { children: ReactNode }) => {
   const { isBottom, hasReachedBottom } = useScrolledTillBottom();
-  console.log("isBottom", isBottom);
-  console.log("hasReachedBottom", hasReachedBottom);
 
   return (
     <Tooltip
