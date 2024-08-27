@@ -6,9 +6,14 @@ import {
   TechnicalSkills,
   TopSkills,
 } from "@/utils/data";
+import { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 import { MdArrowBack } from "react-icons/md";
+
+export const metadata: Metadata = {
+  title: "Skills | Amil Muhammed Hamza",
+};
 
 export default function Page() {
   return (
