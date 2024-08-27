@@ -19,97 +19,97 @@
         "label": "HTML",
         "icon": "/images/skills/html.svg",
         "experience": "5",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Proficient in crafting responsive and accessible web pages, leveraging extensive experience in HTML5 for clean and semantic markup."
       },
       {
         "label": "CSS",
         "icon": "/images/skills/css.svg",
         "experience": "5",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": " Expert in designing visually appealing layouts, with deep knowledge of CSS3 for responsive design, animations, and cross-browser compatibility."
       },
       {
         "label": "JavaScript",
         "icon": "/images/skills/javascript.svg",
         "experience": "5",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "dvanced JavaScript developer with a strong command of modern ES6+ features, building dynamic, interactive web applications."
       },
       {
         "label": "TypeScript",
         "icon": "/images/skills/typescript.svg",
         "experience": "2",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Solid experience in TypeScript, enhancing JavaScript with strong typing for scalable, maintainable codebases."
       },
       {
         "label": "React",
         "icon": "/images/skills/reactjs.svg",
         "experience": "3",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "xperienced in building robust front-end applications using React, focusing on component-based architecture and state management."
       },
       {
         "label": "Next.js",
         "icon": "/images/skills/nextjs.svg",
         "experience": "2",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Proficient in building server-rendered React applications with Next.js, optimizing for performance and SEO."
       },
       {
         "label": "TailwindCSS",
         "icon": "/images/skills/tailwindcss.svg",
         "experience": "3",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Skilled in utilizing TailwindCSS for rapid UI development, creating highly customizable and consistent designs."
       },
       {
         "label": "React Native",
         "icon": "/images/skills/reactjs.svg",
         "experience": "3",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Competent in building cross-platform mobile applications using React Native, focusing on performance and user experience."
       },
       {
         "label": "Node.js",
         "icon": "/images/skills/node.svg",
         "experience": "4",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Strong backend development skills with Node.js, building scalable and efficient server-side applications."
       },
       {
         "label": "Nest.js",
         "icon": "/images/skills/nestjs.svg",
         "experience": "2",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Experienced in developing modular and maintainable server-side applications with Nest.js, utilizing TypeScript and strong architectural patterns."
       },
       {
         "label": "GrahpQL",
         "icon": "/images/skills/graphql.svg",
         "experience": "1",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Knowledgeable in building APIs with GraphQL, enabling efficient data fetching and real-time updates for client applications."
       },
       {
         "label": "Docker",
         "icon": "/images/skills/docker.svg",
         "experience": "1",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Basic experience in containerizing applications with Docker, ensuring consistent development and deployment environments."
       },
       {
         "label": "Figma",
         "icon": "/images/skills/figma.svg",
         "experience": "2",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Proficient in using Figma for UI/UX design, collaborating on prototypes and creating pixel-perfect designs."
       },
       {
         "label": "Android",
         "icon": "/images/skills/android.svg",
         "experience": "3",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Capable of developing Android applications, with a focus on UI/UX design and seamless integration with native features."
       },
       {
         "label": "MongoDB",
         "icon": "/images/skills/mongodb.svg",
         "experience": "2",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Experienced in using MongoDB for building NoSQL databases, optimizing for scalability and performance."
       },
       {
         "label": "Blender",
         "icon": "/images/skills/blender.svg",
         "experience": "5",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
+        "description": "Advanced skills in 3D modeling and animation with Blender, creating complex scenes and assets for various media."
       }
     ],
     "technical": [

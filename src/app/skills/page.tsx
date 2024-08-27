@@ -41,7 +41,6 @@ export default function Page() {
                 aria-label={label}
                 width={75}
                 height={75}
-                // loading="lazy"
                 className="transition lg:hover:scale-90 rounded w-10 lg:w-20 md:w-14"
               />
               <p className="text-xs font-semibold tracking-wide text-slate-500 mt-2 lg:hidden">
