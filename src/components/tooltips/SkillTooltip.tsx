@@ -23,7 +23,10 @@ export default function SkillTooltip({
           // arrow color
           "before:bg-slate-800",
         ],
-        content: ["py-2 px-4 shadow-xl rounded", "text-slate-300 bg-slate-800"],
+        content: [
+          "py-2 px-4 shadow-xl rounded  max-w-xl",
+          "text-slate-300 bg-slate-800",
+        ],
       }}
       content={
         <div>
