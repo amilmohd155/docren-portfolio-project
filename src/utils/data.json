@@ -107,7 +107,7 @@
       },
       {
         "label": "Blender",
-        "icon": "/images/skills/Blender.svg",
+        "icon": "/images/skills/blender.svg",
         "experience": "5",
         "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       }
