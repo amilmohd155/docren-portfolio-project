@@ -100,12 +100,6 @@
         "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
       },
       {
-        "label": "Git",
-        "icon": "/images/skills/git.svg",
-        "experience": "1",
-        "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>"
-      },
-      {
         "label": "MongoDB",
         "icon": "/images/skills/mongodb.svg",
         "experience": "2",
