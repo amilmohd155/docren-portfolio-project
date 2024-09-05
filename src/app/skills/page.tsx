@@ -12,7 +12,7 @@ import Link from "next/link";
 import { MdArrowBack } from "react-icons/md";
 
 export const metadata: Metadata = {
-  title: "Skills | Amil Muhammed Hamza",
+  title: "Skills",
 };
 
 export default function Page() {

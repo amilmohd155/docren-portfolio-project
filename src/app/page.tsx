@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div className="lg:flex lg:justify-between lg:gap-4">
       <Header />
-      <div className="flex flex-col pt-24 lg:w-1/2 lg:py-24">
+      <div className="flex flex-col pt-16 lg:w-1/2 lg:py-16">
         <main id="content" className="">
           {Pages.map(({ link, label, children }, index) => (
             <section

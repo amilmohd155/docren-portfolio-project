@@ -1,18 +1,18 @@
+import "./globals.css";
 import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
-import "./globals.css";
-import Header from "@/components/Header";
 import clsx from "clsx";
 import StarsCanvas from "@/components/StarBackground";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Amil Muhammed Hamza",
+  title: {
+    default: "Amil Muhammed Hamza",
+    template: "%s | Amil Muhammed",
+  },
   description:
     "Amil Muhammed Hamza is a full-stack developer crafting dynamic, end-to-end solutions infused with a flair for 3D creativity.",
-  openGraph: {},
-  twitter: {},
 };
 
 export default function RootLayout({
