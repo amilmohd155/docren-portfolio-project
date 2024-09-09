@@ -223,6 +223,13 @@
   ],
   "projects": [
     {
+      "title": "Postly - Next.js Blog App",
+      "description": "Postly is a personal blogging website developed by Amil Muhammed Hamza using modern technologies like <strong>Nest.js</strong>, <strong>TailwindCSS.</strong>, <strong>MDX</strong>, and <strong>Velite</strong>. ",
+      "image": "/images/projects/postly.png",
+      "imageAlt": "Image for Blog App",
+      "url": "https://postly-amil.vercel.app/"
+    },
+    {
       "title": "Portfolio Webpage",
       "description": "A portfolio site developed using <strong>Nest.js</strong> and <strong>TailwindCSS.</strong>",
       "image": "/images/projects/portfolio.png",
