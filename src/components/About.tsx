@@ -14,7 +14,7 @@ export default function About() {
         <Link
           target="_blank"
           rel="noreferrer noopener"
-          href={process.env.RESUME_URL}
+          href={process.env.RESUME_URL || "#"}
           className="group inline-flex items-center font-semibold leading-tight text-slate-200"
           aria-label="View all projects (opens in a new tab)"
         >
