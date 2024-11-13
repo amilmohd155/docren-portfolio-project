@@ -13,6 +13,7 @@ export const metadata: Metadata = {
   },
   description:
     "Amil Muhammed Hamza is a full-stack developer crafting dynamic, end-to-end solutions infused with a flair for 3D creativity.",
+  metadataBase: new URL("https://amilmohd155.vercel.app/"),
 };
 
 export default function RootLayout({
