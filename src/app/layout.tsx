@@ -3,6 +3,7 @@ import type { Metadata } from "next";
 import { Urbanist } from "next/font/google";
 import clsx from "clsx";
 import StarsCanvas from "@/components/StarBackground";
+import { Analytics } from "@vercel/analytics/react";
 
 const urbanist = Urbanist({ subsets: ["latin"] });
 
@@ -33,6 +34,7 @@ export default function RootLayout({
         <div className="mx-auto min-h-screen max-w-screen-xl px-6 py-12 font-sans md:px-12 md:py-20 lg:px-24 lg:py-0">
           {children}
         </div>
+        <Analytics />
       </body>
     </html>
   );

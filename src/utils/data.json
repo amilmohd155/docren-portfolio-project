@@ -168,8 +168,9 @@
     "title": "Full Stack Developer",
     "shortDecription": "Crafting dynamic, full-stack solutions with a touch of 3D creativity.",
     "about": [
-      "As a graduate in Software Engineering from Kingston University, I am deeply passionate about applying the latest technologies and techniques in full-stack development and 3D game development. I have hands-on experience with React, React Native, Node.js, NestJS, Apollo GraphQL, and microservices, enabling me to create dynamic and responsive native applications that meet user needs and expectations.",
-      "Previously, I worked as a 3D artist at Juego Studios Private Limited, where I contributed to the design and development of several 3D games across various platforms and genres. My creativity and skills in 3D modeling, texturing, lighting, and animation allowed me to create realistic and immersive game environments and characters. I also collaborated closely with the development team to ensure the games' optimal performance and quality. Additionally, during an internship at eClerx, I honed my skills in full-stack development, gaining practical experience with agile methodologies and a variety of software development tools, which has further strengthened my ability to build and maintain scalable applications."
+      "I’m a Software Engineering grad from Kingston University, obsessed with full-stack development and 3D game development. I’ve worked with React, React Native, Node.js, NestJS, and Apollo GraphQL, crafting smooth, user-focused apps.",
+
+      "At 7EDGE, I optimized web and mobile apps, working with React and Redux to boost performance and engagement. I also built RESTful APIs and helped deliver projects ahead of schedule. Along the way, I learned the value of teamwork, collaborating with cross-functional teams and communicating ideas clearly. Before that, I created immersive 3D environments at Juego Studios and honed my full-stack skills at eClerx. I’m always eager to learn, grow, and work with others to build great things!"
     ]
   },
   "education": [
@@ -194,17 +195,17 @@
   ],
   "experience": [
     {
-      "startDate": "2023",
-      "endDate": "Present",
-      "title": "Full Stack Developer",
-      "workplace": "Freelancing",
-      "location": "London, UK",
-      "link": "",
-      "description": "Built and maintained responsive web apps using <strong>React</strong>, optimizing performance and enhancing user experience. Implemented state management (<strong>Redux</strong>, <strong>Context API</strong>) and modern React features to improve code scalability and stability."
+      "startDate": "Oct 2022",
+      "endDate": "Oct 2023",
+      "title": "Full Stack Developer Intern",
+      "workplace": "7EDGE",
+      "location": "Bangalore, India",
+      "link": "https://7edge.com/",
+      "description": "Designed and developed responsive web and mobile applications using <strong>React.js</strong>, <strong>React Native</strong>, and <strong>TypeScript</strong>, achieving a 95% user satisfaction score and reducing loading times by 30%. Built and integrated <strong<RESTful APIs</strong> with <strong>Node.js</strong>, improving data retrieval efficiency by 20% and ensuring seamless front-end and back-end communication. Collaborated with a cross-functional team to deliver projects 15% ahead of schedule, leveraging <strong>Redux.js</strong> for state management and <strong>Git</strong> for version control to maintain high code quality."
     },
     {
-      "startDate": "Jul 2021",
-      "endDate": "Nov 2021",
+      "startDate": "Apr 2022",
+      "endDate": "Sep 2022",
       "title": "Software Engineer Intern",
       "workplace": "eClerX Pvt Ltd",
       "location": "Chandigarh, India",
@@ -212,12 +213,30 @@
       "description": "Developed and maintained <strong>Java applications</strong>, enhancing functionality and performance. Assisted in translating business requirements into technical specifications and implemented solutions under senior developer guidance. Collaborated with cross-functional teams to troubleshoot and resolve software issues, ensuring code quality and reliability."
     },
     {
-      "startDate": "Nov 2021",
-      "endDate": "Aug 2022",
+      "startDate": "Jul 2021",
+      "endDate": "Apr 2022",
       "title": "3D Artist Intern",
       "workplace": "Juego Studios Pvt Ltd",
       "location": "Bangalore, India",
       "link": "https://www.juegostudio.com/",
+      "description": ""
+    },
+    {
+      "startDate": "Aug 2020",
+      "endDate": "Aug 2019",
+      "title": "Placement Coordinator",
+      "workplace": "Lovely Professional University",
+      "location": "Punjab, India",
+      "link": "",
+      "description": ""
+    },
+    {
+      "startDate": "Jun 2018",
+      "endDate": "Dec 2018",
+      "title": "Frontend Developer Apprenticeship",
+      "workplace": "Lovely Professional University",
+      "location": "Punjab, India",
+      "link": "",
       "description": ""
     }
   ],
