@@ -242,6 +242,13 @@
   ],
   "projects": [
     {
+      "title": "Lloyds App - Clone",
+      "description": "An Expo React Native app replicating the Lloyds Bank mobile UI, built with <strong>Reanimated</strong> and <strong>NativeWind</strong> for a seamless and responsive user experience.",
+      "image": "/images/projects/lloyds-clone.png",
+      "imageAlt": "Image of Lloyds Bank Clone App",
+      "url": "https://github.com/amilmohd155/lloyds-clone"
+    },
+    {
       "title": "Postly - Next.js Blog App",
       "description": "Postly is a personal blogging website using modern technologies like <strong>Nest.js</strong>, <strong>TailwindCSS.</strong>, <strong>MDX</strong>, and <strong>Velite</strong>.",
       "image": "/images/projects/postly.png",
