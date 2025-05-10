@@ -242,6 +242,13 @@
   ],
   "projects": [
     {
+      "title": "Zort App - Landing Page",
+      "description": "Zort is a landing page for a fictional app, showcasing my skills in <strong>Next.js</strong>, <strong>TailwindCSS</strong>, and <strong>React</strong>. The project emphasizes responsive design and user experience. I did this as a interview assignment for a company. The project is hosted on <strong>Vercel</strong>.",
+      "image": "/images/projects/zort.png",
+      "imageAlt": "OpenGraph image of Zort Landing Page",
+      "url": "https://zort-marketing.vercel.app/"
+    },
+    {
       "title": "Lloyds App - Clone",
       "description": "An Expo React Native app replicating the Lloyds Bank mobile UI, built with <strong>Reanimated</strong> and <strong>NativeWind</strong> for a seamless and responsive user experience.",
       "image": "/images/projects/lloyds-clone.png",
