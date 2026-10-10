@@ -170,8 +170,8 @@
     "title": "Full Stack Developer",
     "shortDecription": "Crafting dynamic, full-stack solutions with a touch of 3D creativity.",
     "about": [
-      "I’m a full-stack developer specializing in TypeScript, React, React Native, and Next.js. I build production web and mobile applications, publish open-source React Native libraries, and design scalable frontend architectures, with a strong focus on developer experience, performance, and accessible user interfaces.",
-      "I hold an MSc in Software Engineering from Kingston University (Merit, A-). My open-source work includes @docren/react-native-markdown, a customizable Markdown renderer with 1K+ weekly downloads, and @docren/react-native-reanimated-timer, a 60 FPS timer library built on Reanimated. Earlier, I supported React applications for enterprise clients at eClerX and created production-ready 3D assets at Juego Studios, which is where my love of mixing code with 3D creativity comes from. I’m always eager to learn, collaborate, and build great things!"
+      "I’m a full-stack developer who loves building fast, accessible web and mobile apps with TypeScript, React, React Native, and Next.js. I care about clean architecture, great developer experience, and interfaces that are a pleasure to use.",
+      "I studied Software Engineering at Kingston University, started out as a 3D artist, and still enjoy blending code with 3D creativity. I also publish open-source React Native libraries. I’m always eager to learn, collaborate, and build great things!"
     ]
   },
   "education": [
