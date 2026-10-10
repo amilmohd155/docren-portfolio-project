@@ -161,16 +161,17 @@
       "ZBrush",
       "Davinci Resolve"
     ],
-    "other": ["Microsoft Office Suite"]
+    "other": [
+      "Microsoft Office Suite"
+    ]
   },
   "bio": {
     "name": "Amil Muhammed Hamza",
     "title": "Full Stack Developer",
     "shortDecription": "Crafting dynamic, full-stack solutions with a touch of 3D creativity.",
     "about": [
-      "I’m a Software Engineering grad from Kingston University, obsessed with full-stack development and 3D game development. I’ve worked with React, React Native, Node.js, NestJS, and Apollo GraphQL, crafting smooth, user-focused apps.",
-
-      "At 7EDGE, I optimized web and mobile apps, working with React and Redux to boost performance and engagement. I also built RESTful APIs and helped deliver projects ahead of schedule. Along the way, I learned the value of teamwork, collaborating with cross-functional teams and communicating ideas clearly. Before that, I created immersive 3D environments at Juego Studios and honed my full-stack skills at eClerx. I’m always eager to learn, grow, and work with others to build great things!"
+      "I’m a full-stack developer specializing in TypeScript, React, React Native, and Next.js. I build production web and mobile applications, publish open-source React Native libraries, and design scalable frontend architectures, with a strong focus on developer experience, performance, and accessible user interfaces.",
+      "I hold an MSc in Software Engineering from Kingston University (Merit, A-). My open-source work includes @docren/react-native-markdown, a customizable Markdown renderer with 1K+ weekly downloads, and @docren/react-native-reanimated-timer, a 60 FPS timer library built on Reanimated. Earlier, I supported React applications for enterprise clients at eClerX and created production-ready 3D assets at Juego Studios, which is where my love of mixing code with 3D creativity comes from. I’m always eager to learn, collaborate, and build great things!"
     ]
   },
   "education": [
@@ -195,49 +196,54 @@
   ],
   "experience": [
     {
-      "startDate": "Oct 2022",
-      "endDate": "Oct 2023",
-      "title": "Full Stack Developer Intern",
-      "workplace": "7EDGE",
-      "location": "Bangalore, India",
-      "link": "https://7edge.com/",
-      "description": "Designed and developed responsive web and mobile applications using <strong>React.js</strong>, <strong>React Native</strong>, and <strong>TypeScript</strong>, achieving a 95% user satisfaction score and reducing loading times by 30%. Built and integrated <strong<RESTful APIs</strong> with <strong>Node.js</strong>, improving data retrieval efficiency by 20% and ensuring seamless front-end and back-end communication. Collaborated with a cross-functional team to deliver projects 15% ahead of schedule, leveraging <strong>Redux.js</strong> for state management and <strong>Git</strong> for version control to maintain high code quality."
-    },
-    {
-      "startDate": "Apr 2022",
-      "endDate": "Sep 2022",
-      "title": "Software Engineer Intern",
-      "workplace": "eClerX Pvt Ltd",
+      "startDate": "Aug 2022",
+      "endDate": "Nov 2022",
+      "title": "Software Engineering Intern",
+      "workplace": "eClerx Pvt. Ltd.",
       "location": "Chandigarh, India",
       "link": "https://eclerx.com/",
-      "description": "Developed and maintained <strong>Java applications</strong>, enhancing functionality and performance. Assisted in translating business requirements into technical specifications and implemented solutions under senior developer guidance. Collaborated with cross-functional teams to troubleshoot and resolve software issues, ensuring code quality and reliability."
+      "description": [
+        "Developed and supported React-based applications for enterprise clients, troubleshooting frontend issues and resolving production incidents.",
+        "Collaborated with cross-functional teams to investigate React application defects, improve performance, and enhance application reliability.",
+        "Debugged frontend issues, tracked defects, and maintained technical documentation while communicating solutions and updates with stakeholders."
+      ]
     },
     {
-      "startDate": "Jul 2021",
-      "endDate": "Apr 2022",
+      "startDate": "Dec 2021",
+      "endDate": "Jul 2022",
       "title": "3D Artist Intern",
-      "workplace": "Juego Studios Pvt Ltd",
+      "workplace": "Juego Studios",
       "location": "Bangalore, India",
       "link": "https://www.juegostudio.com/",
-      "description": ""
+      "description": [
+        "Modeled and textured production-ready 3D assets from client concepts.",
+        "Collaborated with artists and developers to deliver assets that met technical and artistic requirements.",
+        "Iteratively refined models based on client and internal feedback while meeting project deadlines."
+      ]
     },
     {
-      "startDate": "Aug 2020",
-      "endDate": "Aug 2019",
+      "startDate": "Aug 2019",
+      "endDate": "Aug 2020",
       "title": "Placement Coordinator",
       "workplace": "Lovely Professional University",
       "location": "Punjab, India",
       "link": "",
-      "description": ""
+      "description": [
+        "Coordinated campus recruitment activities and candidate interviews.",
+        "Acted as a liaison between recruiters, students, and university placement teams."
+      ]
     },
     {
       "startDate": "Jun 2018",
       "endDate": "Dec 2018",
-      "title": "Frontend Developer Apprenticeship",
+      "title": "Frontend Developer - Apprenticeship",
       "workplace": "Lovely Professional University",
       "location": "Punjab, India",
       "link": "",
-      "description": ""
+      "description": [
+        "Assisted in developing responsive web interfaces using HTML, CSS, and JavaScript.",
+        "Worked closely with senior developers to implement UI improvements and maintain existing applications."
+      ]
     }
   ],
   "projects": [
