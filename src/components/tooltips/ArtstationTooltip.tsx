@@ -45,7 +45,7 @@ const ArtstationTooltip = ({ children }: { children: ReactNode }) => {
             src="/images/artstation.png"
             width={300}
             height={10}
-            quality={80}
+            quality={75}
             loading="lazy"
             style={{ objectFit: "cover" }}
             className="rounded-t-xl"

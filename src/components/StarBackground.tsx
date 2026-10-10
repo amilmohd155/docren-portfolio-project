@@ -5,7 +5,7 @@ import { Points, PointMaterial, Preload } from "@react-three/drei";
 import * as random from "maath/random";
 
 const StarBackground = (props: any) => {
-  const ref: any = useRef();
+  const ref: any = useRef(null);
   const [sphere] = useState(() =>
     random.inSphere(new Float32Array(5000), { radius: 1.2 })
   );
@@ -21,8 +21,8 @@ const StarBackground = (props: any) => {
           transparent
           color="#fff"
           size={0.0025}
-          sizeAttentuation
-          dethWrite={false}
+          sizeAttenuation
+          depthWrite={false}
         />
       </Points>
     </group>
