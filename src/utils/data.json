@@ -251,7 +251,7 @@
       "title": "Underdraw - AR Drawing & Trace App",
       "description": "Underdraw is a cross-platform (iOS &amp; Android) trace-drawing app: pick a photo or built-in template, overlay it on the live camera feed, and trace it onto paper. It also has a no-camera <strong>Sketch mode</strong> for tracing on-screen. Built with <strong>Expo</strong>, <strong>React Native</strong>, <strong>Reanimated</strong>, <strong>Skia</strong> and <strong>Uniwind (Tailwind v4)</strong>, and it works fully offline with no account. The companion marketing site, with the privacy policy and support pages, is a statically exported <strong>Next.js 16</strong> and <strong>TailwindCSS v4</strong> app hosted on <strong>Vercel</strong>.",
       "image": "/images/projects/underdraw.png",
-      "imageAlt": "Underdraw app showing an image overlaid on the camera in trace mode",
+      "imageAlt": "Underdraw marketing site homepage next to the app home screen",
       "url": "https://underdraw.vercel.app"
     },
     {
