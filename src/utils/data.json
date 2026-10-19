@@ -248,6 +248,13 @@
   ],
   "projects": [
     {
+      "title": "Underdraw - AR Drawing & Trace App",
+      "description": "Underdraw is a cross-platform (iOS &amp; Android) trace-drawing app: pick a photo or built-in template, overlay it on the live camera feed, and trace it onto paper. It also has a no-camera <strong>Sketch mode</strong> for tracing on-screen. Built with <strong>Expo</strong>, <strong>React Native</strong>, <strong>Reanimated</strong>, <strong>Skia</strong> and <strong>Uniwind (Tailwind v4)</strong>, and it works fully offline with no account. The companion marketing site, with the privacy policy and support pages, is a statically exported <strong>Next.js 16</strong> and <strong>TailwindCSS v4</strong> app hosted on <strong>Vercel</strong>.",
+      "image": "/images/projects/underdraw.png",
+      "imageAlt": "Underdraw marketing site homepage",
+      "url": "https://underdraw.vercel.app"
+    },
+    {
       "title": "Zort App - Landing Page",
       "description": "Zort is a landing page for a fictional app, showcasing my skills in <strong>Next.js</strong>, <strong>TailwindCSS</strong>, and <strong>React</strong>. The project emphasizes responsive design and user experience. I did this as a interview assignment for a company. The project is hosted on <strong>Vercel</strong>.",
       "image": "/images/projects/zort.png",
